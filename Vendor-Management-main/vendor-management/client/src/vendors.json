@@ -1,0 +1,27 @@
+[
+    {
+        "Name": "Poison",
+        "Owner": "Garvit",
+        "Phone Number": "1234567890",
+        "Email": "zeher@gmail.com",
+        "password": "123456",
+        "GST": "asdfsadfas",
+        "Address": "Hell",
+        "Rating": 0,
+        "List of Orders": [],
+        "Menu": []
+    },
+
+    {
+        "Name": "Don't eat Here",
+        "Owner": "Sauvadip",
+        "Phone Number": "1234567890",
+        "Email": "matkhao@gmail.com",
+        "password": "654321",
+        "GST": "GST",
+        "Address": "54 Worst Ever Road, India",
+        "Rating": -10,
+        "List of Orders": [],
+        "Menu": []
+    }
+]
